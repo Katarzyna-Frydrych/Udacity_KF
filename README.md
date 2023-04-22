@@ -24,6 +24,7 @@ The program can be used to display statistics on the most frequent times of trav
 chicago.csv
 new_york_city.csv
 washington.csv
+bikeshare.py
 
 ### Credits
 https://github.com/udacity/pdsnd_github.git
